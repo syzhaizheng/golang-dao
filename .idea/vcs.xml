@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang/gokids.v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang/gokids.v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang/gokids.v3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang/tgo.v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang/tgo.v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang/tgo.v3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/golang/util" vcs="Git" />
+  </component>
+</project>
